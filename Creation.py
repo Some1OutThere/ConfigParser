@@ -1,11 +1,11 @@
 from configparser import ConfigParser
 config=ConfigParser()
 config['123456789']={
-	"Name":"Rahul R",
+	"Name":"Rahul",
 	"Address":"#6, Sholingnallur, Chennai",
 	"Phone":"9847467226",
 	"DOB":"22-05-1995",
-	"Balance":"$67383"
+	"Balance":"67383"
 	}
 config['123456790']={
 	"Name":"Vinoth K",
